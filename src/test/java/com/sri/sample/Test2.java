@@ -27,9 +27,8 @@ public class Test2 {
  
   @BeforeClass
 
- 
-	  public void beforeClass() {
-	
+   public void beforeClass() {
+
 	  System.out.println("Before- class");
 	  }
  
